@@ -4,15 +4,15 @@ Reporting ini pada aplikasi yang menggunakan spring boot, menggunakan jasperrepo
 
 1. Langkah pertama import dependency jasperreport ke aplikasi spring yang dikerjakan. Berikut cara import dependency jasperreport ke maven dependency
 
-<dependency>
+ <dependency>
     <groupId>net.sf.jasperreports</groupId>
     <artifactId>jasperreports</artifactId>
     <version>6.4.0</version>
-</dependency>
+ </dependency>
 
 2. Membuat template report sederhana, bisa templating langsung di jasperreport studio. Berikut contoh template sederhana.
-
-<jasperReport ... >
+  
+  <jasperReport ... >
     <field name="FIRST_NAME" class="java.lang.String"/>
     <field name="LAST_NAME" class="java.lang.String"/>
     <field name="SALARY" class="java.lang.Double"/>
