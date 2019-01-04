@@ -1,4 +1,4 @@
-# Document-output-Reporting-Spring-boot-with-jasperreport
+# Document-output-PDF-Reporting-Spring-boot-with-jasperreport
 
 Reporting ini pada aplikasi yang menggunakan spring boot, menggunakan jasperreport studio bisa download jasperreport studio di google.
 
