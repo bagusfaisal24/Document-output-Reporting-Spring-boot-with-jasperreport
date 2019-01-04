@@ -45,7 +45,7 @@ Reporting ini pada aplikasi yang menggunakan spring boot, menggunakan jasperrepo
 
 Class ini sebagai class util yang fungsinya digunakan untuk export document ke berbagai tipe file pdf dan digunakan di class utama yang berisi data-data yang akan di reporting.
 
-4. Membuat class utama.java
-Class ini digunakan untuk input parameter parameter yang digunakan.
+4. Membuat class Utama.java
+Class ini digunakan generate report ke PDF berisi parameter parameter yang digunakan direport.
 
 Sumber : https://www.baeldung.com/spring-jasper
